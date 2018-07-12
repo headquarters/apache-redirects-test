@@ -1,3 +1,0 @@
-{
-  error: "File not found"
-}
